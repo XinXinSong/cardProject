@@ -1,0 +1,3164 @@
+body {
+    margin: 0px;
+}
+
+div {
+    background-repeat: no-repeat;
+}
+
+.raw_image {
+    width: 100%;
+    height: 100%;
+}
+
+.preload {
+    display: none;
+}
+#main_container {
+}
+
+.form_sketch {
+    border-color: transparent;
+    background-color: transparent;
+}
+
+.u0_normal {
+    background-image: url('../单位母版_files/u0_normal.png');
+}
+
+.u0_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:1000px;
+    height:85px;
+}
+
+#u0_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:1006px;
+    height:91px;
+}
+
+.u1 {
+    position:absolute;
+    left:2px;
+    top:34px;
+    width:996px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u2_normal {
+    background-image: url('../单位母版_files/u2_normal.png');
+}
+
+.u2_container {
+    position:absolute;
+    left:0px;
+    top:180px;
+    width:150px;
+    height:795px;
+}
+
+#u2_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:156px;
+    height:801px;
+}
+
+.u3 {
+    position:absolute;
+    left:2px;
+    top:390px;
+    width:146px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u4 {
+    position:absolute;
+    left:0px;
+    top:326px;
+    width:151px;
+    height:71px;
+    overflow:hidden;
+}
+
+#pd0u4 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:151px;
+    height:71px;
+    
+}
+
+.u5_normal {
+    background-image: url('../单位母版_files/u5_normal.png');
+}
+
+.u5_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:150px;
+    height:25px;
+}
+
+#u5_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:156px;
+    height:31px;
+}
+
+.u6 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:146px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u7_selected {
+    background-image: url('../单位母版_files/操作员维护_u7_selected.png');
+}
+
+.u7_normal {
+    background-image: url('../单位母版_files/操作员维护_u7_normal.png');
+}
+
+.u7_container {
+    position:absolute;
+    left:0px;
+    top:49px;
+    width:150px;
+    height:20px;
+}
+
+#u7_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:156px;
+    height:26px;
+}
+
+.u8 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:146px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u9_selected {
+    background-image: url('../单位母版_files/操作员维护_u7_selected.png');
+}
+
+.u9_normal {
+    background-image: url('../单位母版_files/操作员维护_u7_normal.png');
+}
+
+.u9_container {
+    position:absolute;
+    left:0px;
+    top:28px;
+    width:150px;
+    height:20px;
+}
+
+#u9_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:156px;
+    height:26px;
+}
+
+.u10 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:146px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u11 {
+    position:absolute;
+    left:0px;
+    top:183px;
+    width:151px;
+    height:71px;
+    overflow:hidden;
+}
+
+#pd0u11 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:151px;
+    height:71px;
+    
+}
+
+.u12_normal {
+    background-image: url('../单位母版_files/u5_normal.png');
+}
+
+.u12_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:150px;
+    height:25px;
+}
+
+#u12_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:156px;
+    height:31px;
+}
+
+.u13 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:146px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u14_selected {
+    background-image: url('../单位母版_files/操作员维护_u7_selected.png');
+}
+
+.u14_normal {
+    background-image: url('../单位母版_files/操作员维护_u7_normal.png');
+}
+
+.u14_container {
+    position:absolute;
+    left:0px;
+    top:29px;
+    width:150px;
+    height:20px;
+}
+
+#u14_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:156px;
+    height:26px;
+}
+
+.u15 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:146px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u16_selected {
+    background-image: url('../单位母版_files/操作员维护_u7_selected.png');
+}
+
+.u16_normal {
+    background-image: url('../单位母版_files/操作员维护_u7_normal.png');
+}
+
+.u16_container {
+    position:absolute;
+    left:0px;
+    top:49px;
+    width:150px;
+    height:20px;
+}
+
+#u16_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:156px;
+    height:26px;
+}
+
+.u17 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:146px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u18 {
+    position:absolute;
+    left:0px;
+    top:256px;
+    width:151px;
+    height:71px;
+    overflow:hidden;
+}
+
+#pd0u18 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:151px;
+    height:71px;
+    
+}
+
+.u19_normal {
+    background-image: url('../单位母版_files/u5_normal.png');
+}
+
+.u19_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:150px;
+    height:25px;
+}
+
+#u19_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:156px;
+    height:31px;
+}
+
+.u20 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:146px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u21_selected {
+    background-image: url('../单位母版_files/操作员维护_u7_selected.png');
+}
+
+.u21_normal {
+    background-image: url('../单位母版_files/操作员维护_u7_normal.png');
+}
+
+.u21_container {
+    position:absolute;
+    left:0px;
+    top:25px;
+    width:150px;
+    height:20px;
+}
+
+#u21_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:156px;
+    height:26px;
+}
+
+.u22 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:146px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u23_selected {
+    background-image: url('../单位母版_files/操作员维护_u7_selected.png');
+}
+
+.u23_normal {
+    background-image: url('../单位母版_files/操作员维护_u7_normal.png');
+}
+
+.u23_container {
+    position:absolute;
+    left:0px;
+    top:46px;
+    width:150px;
+    height:20px;
+}
+
+#u23_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:156px;
+    height:26px;
+}
+
+.u24 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:146px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u25_normal {
+    background-image: url('../单位母版_files/u25_normal.png');
+}
+
+.u25_container {
+    position:absolute;
+    left:3px;
+    top:6px;
+    width:1372px;
+    height:175px;
+}
+
+#u25_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:1378px;
+    height:181px;
+}
+
+.u26 {
+    position:absolute;
+    left:2px;
+    top:80px;
+    width:1368px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u27 {
+    position:absolute;
+    left:76px;
+    top:24px;
+    width:367px;
+    height:31px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u28 {
+    position:absolute;
+    left:733px;
+    top:27px;
+    width:107px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u29_normal {
+    background-image: url('../单位母版_files/u29_normal.png');
+}
+
+.u29_container {
+    position:absolute;
+    left:149px;
+    top:86px;
+    width:1px;
+    height:95px;
+}
+
+#u29_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:7px;
+    height:101px;
+}
+
+.u30 {
+    position:absolute;
+    left:2px;
+    top:40px;
+    width:1px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u31 {
+    position:absolute;
+    left:7px;
+    top:108px;
+    width:143px;
+    height:48px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u32 {
+    position:absolute;
+    left:850px;
+    top:27px;
+    width:140px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u33_normal {
+    background-image: url('../单位母版_files/u33_normal.png');
+}
+
+.u33_container {
+    position:absolute;
+    left:14px;
+    top:11px;
+    width:50px;
+    height:50px;
+}
+
+#u33_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:50px;
+    height:50px;
+}
+
+.u34 {
+    position:absolute;
+    left:2px;
+    top:17px;
+    width:46px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u35_normal {
+    background-image: url('../单位母版_files/u35_normal.png');
+}
+
+.u35_container {
+    position:absolute;
+    left:150px;
+    top:77px;
+    width:1130px;
+    height:901px;
+}
+
+#u35_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:1136px;
+    height:907px;
+}
+
+.u36 {
+    position:absolute;
+    left:2px;
+    top:442px;
+    width:1126px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u37_normal {
+    background-image: url('../poweredby_files/u29_normal.png');
+}
+
+.u37_container {
+    position:absolute;
+    left:0px;
+    top:2305px;
+    width:1900px;
+    height:50px;
+}
+
+#u37_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:1906px;
+    height:56px;
+}
+
+.u38 {
+    position:absolute;
+    left:2px;
+    top:17px;
+    width:1896px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u39 {
+    position:absolute;
+    left:354px;
+    top:2322px;
+    width:326px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u40_normal {
+    background-image: url('../poweredby_files/u32_normal.png');
+}
+
+.u40_container {
+    position:absolute;
+    left:639px;
+    top:2305px;
+    width:167px;
+    height:53px;
+}
+
+#u40_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:167px;
+    height:53px;
+}
+
+.u41 {
+    position:absolute;
+    left:2px;
+    top:18px;
+    width:163px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u43_line {
+    background-image: url('../单位母版_files/u43_line.png');
+}
+
+.u43_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:200px;
+    height:3px;
+}
+
+.u43 {
+    position:absolute;
+    left:0px;
+    top:73px;
+    width:200px;
+    height:10px;
+    
+}
+
+.u44 {
+    position:absolute;
+    left:113px;
+    top:214px;
+    width:16px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u46_normal {
+    background-image: url('../人员出入统计报表（办证单位）_files/u46_normal.png');
+}
+
+.u46_container {
+    position:absolute;
+    left:157px;
+    top:349px;
+    width:1217px;
+    height:40px;
+}
+
+#u46_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:1223px;
+    height:46px;
+}
+
+.u47 {
+    position:absolute;
+    left:2px;
+    top:12px;
+    width:1213px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u48_normal {
+    background-image: url('../人员出入统计报表（办证单位）_files/u48_normal.png');
+}
+
+.u48_container {
+    position:absolute;
+    left:674px;
+    top:399px;
+    width:81px;
+    height:34px;
+}
+
+#u48_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:87px;
+    height:40px;
+}
+
+.u49 {
+    position:absolute;
+    left:2px;
+    top:9px;
+    width:77px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u50_normal {
+    background-image: url('../人员出入统计报表（办证单位）_files/u50_normal.png');
+}
+
+.u50_container {
+    position:absolute;
+    left:754px;
+    top:399px;
+    width:69px;
+    height:34px;
+}
+
+#u50_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:75px;
+    height:40px;
+}
+
+.u51 {
+    position:absolute;
+    left:2px;
+    top:9px;
+    width:65px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u52_normal {
+    background-image: url('../人员出入统计报表（办证单位）_files/u52_normal.png');
+}
+
+.u52_container {
+    position:absolute;
+    left:824px;
+    top:399px;
+    width:102px;
+    height:34px;
+}
+
+#u52_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:108px;
+    height:40px;
+}
+
+.u53 {
+    position:absolute;
+    left:2px;
+    top:9px;
+    width:98px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u54_normal {
+    background-image: url('../人员出入统计报表（办证单位）_files/u54_normal.png');
+}
+
+.u54_container {
+    position:absolute;
+    left:926px;
+    top:399px;
+    width:90px;
+    height:34px;
+}
+
+#u54_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:96px;
+    height:40px;
+}
+
+.u55 {
+    position:absolute;
+    left:2px;
+    top:9px;
+    width:86px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u56_normal {
+    background-image: url('../人员出入统计报表（办证单位）_files/u48_normal.png');
+}
+
+.u56_container {
+    position:absolute;
+    left:674px;
+    top:433px;
+    width:81px;
+    height:34px;
+}
+
+#u56_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:87px;
+    height:40px;
+}
+
+.u57 {
+    position:absolute;
+    left:2px;
+    top:9px;
+    width:77px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u58_normal {
+    background-image: url('../人员出入统计报表（办证单位）_files/u48_normal.png');
+}
+
+.u58_container {
+    position:absolute;
+    left:674px;
+    top:468px;
+    width:81px;
+    height:34px;
+}
+
+#u58_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:87px;
+    height:40px;
+}
+
+.u59 {
+    position:absolute;
+    left:2px;
+    top:9px;
+    width:77px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u60_normal {
+    background-image: url('../人员出入统计报表（办证单位）_files/u50_normal.png');
+}
+
+.u60_container {
+    position:absolute;
+    left:754px;
+    top:433px;
+    width:69px;
+    height:34px;
+}
+
+#u60_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:75px;
+    height:40px;
+}
+
+.u61 {
+    position:absolute;
+    left:2px;
+    top:9px;
+    width:65px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u62_normal {
+    background-image: url('../人员出入统计报表（办证单位）_files/u50_normal.png');
+}
+
+.u62_container {
+    position:absolute;
+    left:754px;
+    top:468px;
+    width:69px;
+    height:34px;
+}
+
+#u62_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:75px;
+    height:40px;
+}
+
+.u63 {
+    position:absolute;
+    left:2px;
+    top:9px;
+    width:65px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u64_normal {
+    background-image: url('../人员出入统计报表（办证单位）_files/u52_normal.png');
+}
+
+.u64_container {
+    position:absolute;
+    left:824px;
+    top:433px;
+    width:102px;
+    height:34px;
+}
+
+#u64_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:108px;
+    height:40px;
+}
+
+.u65 {
+    position:absolute;
+    left:2px;
+    top:9px;
+    width:98px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u66_normal {
+    background-image: url('../人员出入统计报表（办证单位）_files/u52_normal.png');
+}
+
+.u66_container {
+    position:absolute;
+    left:824px;
+    top:468px;
+    width:102px;
+    height:34px;
+}
+
+#u66_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:108px;
+    height:40px;
+}
+
+.u67 {
+    position:absolute;
+    left:2px;
+    top:9px;
+    width:98px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u68_normal {
+    background-image: url('../人员出入统计报表（办证单位）_files/u54_normal.png');
+}
+
+.u68_container {
+    position:absolute;
+    left:926px;
+    top:433px;
+    width:90px;
+    height:34px;
+}
+
+#u68_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:96px;
+    height:40px;
+}
+
+.u69 {
+    position:absolute;
+    left:2px;
+    top:9px;
+    width:86px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u70_normal {
+    background-image: url('../人员出入统计报表（办证单位）_files/u54_normal.png');
+}
+
+.u70_container {
+    position:absolute;
+    left:926px;
+    top:468px;
+    width:90px;
+    height:34px;
+}
+
+#u70_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:96px;
+    height:40px;
+}
+
+.u71 {
+    position:absolute;
+    left:2px;
+    top:9px;
+    width:86px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u72_normal {
+    background-image: url('../人员出入统计报表（办证单位）_files/u72_normal.png');
+}
+
+.u72_container {
+    position:absolute;
+    left:157px;
+    top:399px;
+    width:83px;
+    height:34px;
+}
+
+#u72_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:89px;
+    height:40px;
+}
+
+.u73 {
+    position:absolute;
+    left:2px;
+    top:9px;
+    width:79px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u74_normal {
+    background-image: url('../人员出入统计报表（办证单位）_files/u72_normal.png');
+}
+
+.u74_container {
+    position:absolute;
+    left:157px;
+    top:433px;
+    width:83px;
+    height:34px;
+}
+
+#u74_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:89px;
+    height:40px;
+}
+
+.u75 {
+    position:absolute;
+    left:2px;
+    top:9px;
+    width:79px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u76_normal {
+    background-image: url('../人员出入统计报表（办证单位）_files/u72_normal.png');
+}
+
+.u76_container {
+    position:absolute;
+    left:157px;
+    top:468px;
+    width:83px;
+    height:34px;
+}
+
+#u76_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:89px;
+    height:40px;
+}
+
+.u77 {
+    position:absolute;
+    left:2px;
+    top:9px;
+    width:79px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u78_normal {
+    background-image: url('../人员出入统计报表（办证单位）_files/u48_normal.png');
+}
+
+.u78_container {
+    position:absolute;
+    left:674px;
+    top:502px;
+    width:81px;
+    height:34px;
+}
+
+#u78_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:87px;
+    height:40px;
+}
+
+.u79 {
+    position:absolute;
+    left:2px;
+    top:9px;
+    width:77px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u80_normal {
+    background-image: url('../人员出入统计报表（办证单位）_files/u50_normal.png');
+}
+
+.u80_container {
+    position:absolute;
+    left:754px;
+    top:502px;
+    width:69px;
+    height:34px;
+}
+
+#u80_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:75px;
+    height:40px;
+}
+
+.u81 {
+    position:absolute;
+    left:2px;
+    top:9px;
+    width:65px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u82_normal {
+    background-image: url('../人员出入统计报表（办证单位）_files/u52_normal.png');
+}
+
+.u82_container {
+    position:absolute;
+    left:824px;
+    top:502px;
+    width:102px;
+    height:34px;
+}
+
+#u82_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:108px;
+    height:40px;
+}
+
+.u83 {
+    position:absolute;
+    left:2px;
+    top:9px;
+    width:98px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u84_normal {
+    background-image: url('../人员出入统计报表（办证单位）_files/u54_normal.png');
+}
+
+.u84_container {
+    position:absolute;
+    left:926px;
+    top:502px;
+    width:90px;
+    height:34px;
+}
+
+#u84_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:96px;
+    height:40px;
+}
+
+.u85 {
+    position:absolute;
+    left:2px;
+    top:9px;
+    width:86px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u86_normal {
+    background-image: url('../人员出入统计报表（办证单位）_files/u72_normal.png');
+}
+
+.u86_container {
+    position:absolute;
+    left:157px;
+    top:502px;
+    width:83px;
+    height:34px;
+}
+
+#u86_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:89px;
+    height:40px;
+}
+
+.u87 {
+    position:absolute;
+    left:2px;
+    top:9px;
+    width:79px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u88_normal {
+    background-image: url('../人员出入统计报表（办证单位）_files/u48_normal.png');
+}
+
+.u88_container {
+    position:absolute;
+    left:674px;
+    top:537px;
+    width:81px;
+    height:34px;
+}
+
+#u88_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:87px;
+    height:40px;
+}
+
+.u89 {
+    position:absolute;
+    left:2px;
+    top:9px;
+    width:77px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u90_normal {
+    background-image: url('../人员出入统计报表（办证单位）_files/u50_normal.png');
+}
+
+.u90_container {
+    position:absolute;
+    left:754px;
+    top:537px;
+    width:69px;
+    height:34px;
+}
+
+#u90_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:75px;
+    height:40px;
+}
+
+.u91 {
+    position:absolute;
+    left:2px;
+    top:9px;
+    width:65px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u92_normal {
+    background-image: url('../人员出入统计报表（办证单位）_files/u52_normal.png');
+}
+
+.u92_container {
+    position:absolute;
+    left:824px;
+    top:537px;
+    width:102px;
+    height:34px;
+}
+
+#u92_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:108px;
+    height:40px;
+}
+
+.u93 {
+    position:absolute;
+    left:2px;
+    top:9px;
+    width:98px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u94_normal {
+    background-image: url('../人员出入统计报表（办证单位）_files/u54_normal.png');
+}
+
+.u94_container {
+    position:absolute;
+    left:926px;
+    top:537px;
+    width:90px;
+    height:34px;
+}
+
+#u94_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:96px;
+    height:40px;
+}
+
+.u95 {
+    position:absolute;
+    left:2px;
+    top:9px;
+    width:86px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u96_normal {
+    background-image: url('../人员出入统计报表（办证单位）_files/u72_normal.png');
+}
+
+.u96_container {
+    position:absolute;
+    left:157px;
+    top:537px;
+    width:83px;
+    height:34px;
+}
+
+#u96_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:89px;
+    height:40px;
+}
+
+.u97 {
+    position:absolute;
+    left:2px;
+    top:9px;
+    width:79px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u98_normal {
+    background-image: url('../人员出入统计报表（办证单位）_files/u98_normal.png');
+}
+
+.u98_container {
+    position:absolute;
+    left:164px;
+    top:358px;
+    width:65px;
+    height:25px;
+}
+
+#u98_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:71px;
+    height:31px;
+}
+
+.u99 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:61px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u100_normal {
+    background-image: url('../人员出入统计报表（办证单位）_files/u72_normal.png');
+}
+
+.u100_container {
+    position:absolute;
+    left:1016px;
+    top:399px;
+    width:83px;
+    height:34px;
+}
+
+#u100_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:89px;
+    height:40px;
+}
+
+.u101 {
+    position:absolute;
+    left:2px;
+    top:9px;
+    width:79px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u102_normal {
+    background-image: url('../人员出入统计报表（办证单位）_files/u72_normal.png');
+}
+
+.u102_container {
+    position:absolute;
+    left:1016px;
+    top:433px;
+    width:83px;
+    height:34px;
+}
+
+#u102_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:89px;
+    height:40px;
+}
+
+.u103 {
+    position:absolute;
+    left:2px;
+    top:9px;
+    width:79px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u104_normal {
+    background-image: url('../人员出入统计报表（办证单位）_files/u72_normal.png');
+}
+
+.u104_container {
+    position:absolute;
+    left:1016px;
+    top:468px;
+    width:83px;
+    height:34px;
+}
+
+#u104_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:89px;
+    height:40px;
+}
+
+.u105 {
+    position:absolute;
+    left:2px;
+    top:9px;
+    width:79px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u106_normal {
+    background-image: url('../人员出入统计报表（办证单位）_files/u72_normal.png');
+}
+
+.u106_container {
+    position:absolute;
+    left:1016px;
+    top:502px;
+    width:83px;
+    height:34px;
+}
+
+#u106_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:89px;
+    height:40px;
+}
+
+.u107 {
+    position:absolute;
+    left:2px;
+    top:9px;
+    width:79px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u108_normal {
+    background-image: url('../人员出入统计报表（办证单位）_files/u72_normal.png');
+}
+
+.u108_container {
+    position:absolute;
+    left:1016px;
+    top:537px;
+    width:83px;
+    height:34px;
+}
+
+#u108_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:89px;
+    height:40px;
+}
+
+.u109 {
+    position:absolute;
+    left:2px;
+    top:9px;
+    width:79px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u110_normal {
+    background-image: url('../人员出入统计报表（办证单位）_files/u48_normal.png');
+}
+
+.u110_container {
+    position:absolute;
+    left:373px;
+    top:433px;
+    width:81px;
+    height:34px;
+}
+
+#u110_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:87px;
+    height:40px;
+}
+
+.u111 {
+    position:absolute;
+    left:2px;
+    top:9px;
+    width:77px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u112_normal {
+    background-image: url('../人员出入统计报表（办证单位）_files/u48_normal.png');
+}
+
+.u112_container {
+    position:absolute;
+    left:373px;
+    top:502px;
+    width:81px;
+    height:34px;
+}
+
+#u112_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:87px;
+    height:40px;
+}
+
+.u113 {
+    position:absolute;
+    left:2px;
+    top:9px;
+    width:77px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u114_normal {
+    background-image: url('../人员出入统计报表（办证单位）_files/u48_normal.png');
+}
+
+.u114_container {
+    position:absolute;
+    left:373px;
+    top:537px;
+    width:81px;
+    height:34px;
+}
+
+#u114_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:87px;
+    height:40px;
+}
+
+.u115 {
+    position:absolute;
+    left:2px;
+    top:9px;
+    width:77px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u116_normal {
+    background-image: url('../人员出入统计报表（办证单位）_files/u48_normal.png');
+}
+
+.u116_container {
+    position:absolute;
+    left:373px;
+    top:399px;
+    width:81px;
+    height:34px;
+}
+
+#u116_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:87px;
+    height:40px;
+}
+
+.u117 {
+    position:absolute;
+    left:2px;
+    top:9px;
+    width:77px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u118_normal {
+    background-image: url('../人员出入统计报表（办证单位）_files/u48_normal.png');
+}
+
+.u118_container {
+    position:absolute;
+    left:373px;
+    top:468px;
+    width:81px;
+    height:34px;
+}
+
+#u118_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:87px;
+    height:40px;
+}
+
+.u119 {
+    position:absolute;
+    left:2px;
+    top:9px;
+    width:77px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u120_normal {
+    background-image: url('../人员出入统计报表（办证单位）_files/u120_normal.png');
+}
+
+.u120_container {
+    position:absolute;
+    left:575px;
+    top:399px;
+    width:99px;
+    height:34px;
+}
+
+#u120_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:105px;
+    height:40px;
+}
+
+.u121 {
+    position:absolute;
+    left:2px;
+    top:9px;
+    width:95px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u122_normal {
+    background-image: url('../人员出入统计报表（办证单位）_files/u120_normal.png');
+}
+
+.u122_container {
+    position:absolute;
+    left:575px;
+    top:432px;
+    width:99px;
+    height:34px;
+}
+
+#u122_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:105px;
+    height:40px;
+}
+
+.u123 {
+    position:absolute;
+    left:2px;
+    top:9px;
+    width:95px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u124_normal {
+    background-image: url('../人员出入统计报表（办证单位）_files/u120_normal.png');
+}
+
+.u124_container {
+    position:absolute;
+    left:575px;
+    top:468px;
+    width:99px;
+    height:34px;
+}
+
+#u124_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:105px;
+    height:40px;
+}
+
+.u125 {
+    position:absolute;
+    left:2px;
+    top:9px;
+    width:95px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u126_normal {
+    background-image: url('../人员出入统计报表（办证单位）_files/u120_normal.png');
+}
+
+.u126_container {
+    position:absolute;
+    left:575px;
+    top:501px;
+    width:99px;
+    height:34px;
+}
+
+#u126_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:105px;
+    height:40px;
+}
+
+.u127 {
+    position:absolute;
+    left:2px;
+    top:9px;
+    width:95px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u128_normal {
+    background-image: url('../人员出入统计报表（办证单位）_files/u120_normal.png');
+}
+
+.u128_container {
+    position:absolute;
+    left:575px;
+    top:537px;
+    width:99px;
+    height:34px;
+}
+
+#u128_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:105px;
+    height:40px;
+}
+
+.u129 {
+    position:absolute;
+    left:2px;
+    top:9px;
+    width:95px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u130_normal {
+    background-image: url('../人员出入统计报表（办证单位）_files/u130_normal.png');
+}
+
+.u130_container {
+    position:absolute;
+    left:151px;
+    top:83px;
+    width:850px;
+    height:255px;
+}
+
+#u130_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:856px;
+    height:261px;
+}
+
+.u131 {
+    position:absolute;
+    left:2px;
+    top:120px;
+    width:846px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u132 {
+    position:absolute;
+    left:180px;
+    top:134px;
+    width:78px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u133_normal {
+    background-image: url('../人员出入统计报表（办证单位）_files/u98_normal.png');
+}
+
+.u133_container {
+    position:absolute;
+    left:268px;
+    top:310px;
+    width:65px;
+    height:25px;
+}
+
+#u133_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:71px;
+    height:31px;
+}
+
+.u134 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:61px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u135 {
+    position:absolute;
+    left:180px;
+    top:223px;
+    width:78px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u136 {
+    position:absolute;
+    left:268px;
+    top:214px;
+    width:127px;
+    height:25px;
+    ;
+    ;
+    text-align: left;;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u136_text_sketch {
+    font-family: '应用字体';
+}
+
+.u137 {
+    position:absolute;
+    left:421px;
+    top:214px;
+    width:127px;
+    height:25px;
+    ;
+    ;
+    text-align: left;;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u137_text_sketch {
+    font-family: '应用字体';
+}
+
+.u138 {
+    position:absolute;
+    left:395px;
+    top:223px;
+    width:26px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u139 {
+    position:absolute;
+    left:180px;
+    top:174px;
+    width:78px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u140 {
+    position:absolute;
+    left:268px;
+    top:165px;
+    width:216px;
+    height:25px;
+    ;
+    ;
+    text-align: left;;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u140_text_sketch {
+    font-family: '应用字体';
+}
+
+.u141 {
+    position:absolute;
+    left:268px;
+    top:130px;
+    width:216px;
+    height:25px;
+    ;
+    ;
+    text-align: left;;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#CCCCCC;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u141_text_sketch {
+    font-family: '应用字体';
+}
+
+.u142_normal {
+    background-image: url('../人员出入统计报表（办证单位）_files/u142_normal.png');
+}
+
+.u142_container {
+    position:absolute;
+    left:153px;
+    top:83px;
+    width:1217px;
+    height:40px;
+}
+
+#u142_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:1223px;
+    height:46px;
+}
+
+.u143 {
+    position:absolute;
+    left:2px;
+    top:12px;
+    width:1213px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u144 {
+    position:absolute;
+    left:172px;
+    top:95px;
+    width:150px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u145 {
+    position:absolute;
+    left:180px;
+    top:258px;
+    width:78px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u146 {
+    position:absolute;
+    left:268px;
+    top:249px;
+    width:216px;
+    height:25px;
+    ;
+    ;
+    text-align: left;;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u146_text_sketch {
+    font-family: '应用字体';
+}
+
+.u147_normal {
+    background-image: url('../人员出入统计报表（办证单位）_files/u147_normal.png');
+}
+
+.u147_container {
+    position:absolute;
+    left:240px;
+    top:399px;
+    width:133px;
+    height:34px;
+}
+
+#u147_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:139px;
+    height:40px;
+}
+
+.u148 {
+    position:absolute;
+    left:2px;
+    top:9px;
+    width:129px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u149_normal {
+    background-image: url('../人员出入统计报表（办证单位）_files/u147_normal.png');
+}
+
+.u149_container {
+    position:absolute;
+    left:240px;
+    top:433px;
+    width:133px;
+    height:34px;
+}
+
+#u149_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:139px;
+    height:40px;
+}
+
+.u150 {
+    position:absolute;
+    left:2px;
+    top:9px;
+    width:129px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u151_normal {
+    background-image: url('../人员出入统计报表（办证单位）_files/u147_normal.png');
+}
+
+.u151_container {
+    position:absolute;
+    left:240px;
+    top:468px;
+    width:133px;
+    height:34px;
+}
+
+#u151_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:139px;
+    height:40px;
+}
+
+.u152 {
+    position:absolute;
+    left:2px;
+    top:9px;
+    width:129px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u153_normal {
+    background-image: url('../人员出入统计报表（办证单位）_files/u147_normal.png');
+}
+
+.u153_container {
+    position:absolute;
+    left:240px;
+    top:502px;
+    width:133px;
+    height:34px;
+}
+
+#u153_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:139px;
+    height:40px;
+}
+
+.u154 {
+    position:absolute;
+    left:2px;
+    top:9px;
+    width:129px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u155_normal {
+    background-image: url('../人员出入统计报表（办证单位）_files/u147_normal.png');
+}
+
+.u155_container {
+    position:absolute;
+    left:240px;
+    top:537px;
+    width:133px;
+    height:34px;
+}
+
+#u155_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:139px;
+    height:40px;
+}
+
+.u156 {
+    position:absolute;
+    left:2px;
+    top:9px;
+    width:129px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u157_normal {
+    background-image: url('../人员出入统计报表（办证单位）_files/u157_normal.png');
+}
+
+.u157_container {
+    position:absolute;
+    left:454px;
+    top:399px;
+    width:119px;
+    height:34px;
+}
+
+#u157_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:125px;
+    height:40px;
+}
+
+.u158 {
+    position:absolute;
+    left:2px;
+    top:9px;
+    width:115px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u159_normal {
+    background-image: url('../人员出入统计报表（办证单位）_files/票证信息身份证1_u159_normal.png');
+}
+
+.u159_container {
+    position:absolute;
+    left:454px;
+    top:433px;
+    width:119px;
+    height:35px;
+}
+
+#u159_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:125px;
+    height:41px;
+}
+
+.u160 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:115px;
+    height:32px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u161_normal {
+    background-image: url('../人员出入统计报表（办证单位）_files/u157_normal.png');
+}
+
+.u161_container {
+    position:absolute;
+    left:454px;
+    top:468px;
+    width:119px;
+    height:34px;
+}
+
+#u161_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:125px;
+    height:40px;
+}
+
+.u162 {
+    position:absolute;
+    left:2px;
+    top:9px;
+    width:115px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u163_normal {
+    background-image: url('../人员出入统计报表（办证单位）_files/u157_normal.png');
+}
+
+.u163_container {
+    position:absolute;
+    left:454px;
+    top:502px;
+    width:119px;
+    height:34px;
+}
+
+#u163_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:125px;
+    height:40px;
+}
+
+.u164 {
+    position:absolute;
+    left:2px;
+    top:9px;
+    width:115px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u165_normal {
+    background-image: url('../人员出入统计报表（办证单位）_files/u157_normal.png');
+}
+
+.u165_container {
+    position:absolute;
+    left:454px;
+    top:537px;
+    width:119px;
+    height:34px;
+}
+
+#u165_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:125px;
+    height:40px;
+}
+
+.u166 {
+    position:absolute;
+    left:2px;
+    top:9px;
+    width:115px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u167 {
+    position:absolute;
+    left:976px;
+    top:348px;
+    width:320px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u168_normal {
+    background-image: url('../人员出入统计报表（办证单位）_files/u168_normal.png');
+}
+
+.u168_container {
+    position:absolute;
+    left:1109px;
+    top:417px;
+    width:22px;
+    height:22px;
+}
+
+#u168_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:28px;
+    height:28px;
+}
+
+.u169 {
+    position:absolute;
+    left:2px;
+    top:3px;
+    width:18px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u170_end {
+    background-image: url('../人员出入统计报表（办证单位）_files/u170_end.png');
+}
+
+.u170_end {
+    position:absolute;
+    left:37px;
+    top:-5px;
+    width:14px;
+    height:20px;
+}
+
+.u170_line {
+    background-image: url('../人员出入统计报表（办证单位）_files/u170_line.png');
+}
+
+.u170_line {
+    position:absolute;
+    left:0px;
+    top:2px;
+    width:46px;
+    height:7px;
+}
+
+.u170 {
+    position:absolute;
+    left:1094px;
+    top:387px;
+    width:46px;
+    height:10px;
+    -webkit-transform: rotate(270deg);
+    -moz-transform: rotate(270deg);
+    -ms-transform: rotate(270deg);
+    transform: rotate(270deg);
+
+}
+
+.u171_normal {
+    background-image: url('../人员出入统计报表（办证单位）_files/u171_normal.png');
+}
+
+.u171_container {
+    position:absolute;
+    left:168px;
+    top:112px;
+    width:88px;
+    height:51px;
+}
+
+#u171_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:94px;
+    height:57px;
+}
+
+.u172 {
+    position:absolute;
+    left:2px;
+    top:18px;
+    width:84px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u173_normal {
+    background-image: url('../人员出入统计报表（办证单位）_files/u168_normal.png');
+}
+
+.u173_container {
+    position:absolute;
+    left:186px;
+    top:111px;
+    width:22px;
+    height:22px;
+}
+
+#u173_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:28px;
+    height:28px;
+}
+
+.u174 {
+    position:absolute;
+    left:2px;
+    top:3px;
+    width:18px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u175_end {
+    background-image: url('../人员出入统计报表（办证单位）_files/u175_end.png');
+}
+
+.u175_end {
+    position:absolute;
+    left:219px;
+    top:-5px;
+    width:14px;
+    height:20px;
+}
+
+.u175_line {
+    background-image: url('../人员出入统计报表（办证单位）_files/u175_line.png');
+}
+
+.u175_line {
+    position:absolute;
+    left:0px;
+    top:2px;
+    width:228px;
+    height:7px;
+}
+
+.u175 {
+    position:absolute;
+    left:256px;
+    top:112px;
+    width:228px;
+    height:10px;
+    
+}
+
+.u176 {
+    position:absolute;
+    left:484px;
+    top:130px;
+    width:479px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u177_normal {
+    background-image: url('../人员出入统计报表（办证单位）_files/u171_normal.png');
+}
+
+.u177_container {
+    position:absolute;
+    left:170px;
+    top:167px;
+    width:88px;
+    height:51px;
+}
+
+#u177_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:94px;
+    height:57px;
+}
+
+.u178 {
+    position:absolute;
+    left:2px;
+    top:18px;
+    width:84px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u179_normal {
+    background-image: url('../人员出入统计报表（办证单位）_files/u168_normal.png');
+}
+
+.u179_container {
+    position:absolute;
+    left:188px;
+    top:170px;
+    width:22px;
+    height:22px;
+}
+
+#u179_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:28px;
+    height:28px;
+}
+
+.u180 {
+    position:absolute;
+    left:2px;
+    top:3px;
+    width:18px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u181_end {
+    background-image: url('../人员出入统计报表（办证单位）_files/u181_end.png');
+}
+
+.u181_end {
+    position:absolute;
+    left:192px;
+    top:-5px;
+    width:14px;
+    height:20px;
+}
+
+.u181_line {
+    background-image: url('../人员出入统计报表（办证单位）_files/u181_line.png');
+}
+
+.u181_line {
+    position:absolute;
+    left:0px;
+    top:2px;
+    width:201px;
+    height:7px;
+}
+
+.u181 {
+    position:absolute;
+    left:256px;
+    top:167px;
+    width:201px;
+    height:10px;
+    
+}
+
+.u182 {
+    position:absolute;
+    left:459px;
+    top:166px;
+    width:479px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
